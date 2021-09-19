@@ -1,0 +1,2701 @@
+[{
+  "logId" : 24442493688,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Mozzarella  gerieben",
+    "brand" : "Milfina (Hofer)",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 58,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 58,
+    "fat" : 4.6,
+    "fiber" : 0.0,
+    "carbs" : 0.2,
+    "sodium" : 0.0,
+    "protein" : 4.0
+  },
+  "logDate" : "2021-01-09",
+  "favorite" : false
+},{
+  "logId" : 24442180863,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Bolognese Sauce",
+    "brand" : "Eigene Herstellung",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 138,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 138,
+    "fat" : 9.8,
+    "fiber" : 0.0,
+    "carbs" : 3.6,
+    "sodium" : 0.0,
+    "protein" : 8.7
+  },
+  "logDate" : "2021-01-09",
+  "favorite" : false
+},{
+  "logId" : 24441378854,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-09",
+  "favorite" : false
+},{
+  "logId" : 24441926520,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Fastenbutter",
+    "brand" : "NÖM",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 78,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 78,
+    "fat" : 8.0,
+    "fiber" : 0.0,
+    "carbs" : 0.6,
+    "sodium" : 0.0,
+    "protein" : 0.8
+  },
+  "logDate" : "2021-01-09",
+  "favorite" : false
+},{
+  "logId" : 24442396030,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-09",
+  "favorite" : false
+},{
+  "logId" : 24442493694,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Marmelade Erdbeere kalorienreduziert",
+    "brand" : "Darbo",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 32,
+    "amount" : 40.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 32,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 9.6,
+    "sodium" : 0.0,
+    "protein" : 0.2
+  },
+  "logDate" : "2021-01-09",
+  "favorite" : false
+},{
+  "logId" : 24430636458,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Weintrauben (rot/grün), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 108,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 108,
+    "fat" : 0.42,
+    "fiber" : 0.0,
+    "carbs" : 22.86,
+    "sodium" : 0.0,
+    "protein" : 1.02
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24430919669,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Crispy Protein bar cookies&cream",
+    "brand" : "Hej Nutrition",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 170,
+    "amount" : 45.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 170,
+    "fat" : 7.2,
+    "fiber" : 0.0,
+    "carbs" : 17.55,
+    "sodium" : 0.0,
+    "protein" : 14.4
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24430831684,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24430274374,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Rote Paprika, frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 65,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 65,
+    "fat" : 0.75,
+    "fiber" : 0.0,
+    "carbs" : 9.6,
+    "sodium" : 0.0,
+    "protein" : 1.95
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24430812024,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Cocktailtomaten",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 21,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 21,
+    "fat" : 0.3,
+    "fiber" : 0.0,
+    "carbs" : 3.5,
+    "sodium" : 0.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24430215833,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Tzatziki",
+    "brand" : "Greco",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 92,
+    "amount" : 70.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 92,
+    "fat" : 7.07,
+    "fiber" : 0.0,
+    "carbs" : 3.15,
+    "sodium" : 0.0,
+    "protein" : 3.78
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24430470074,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Putenfarmerschinken",
+    "brand" : "Billa",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 50,
+    "amount" : 50.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 50,
+    "fat" : 1.0,
+    "fiber" : 0.0,
+    "carbs" : 3.2,
+    "sodium" : 0.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24430607068,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Salatgurke (ohne Schale), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 71,
+    "amount" : 590.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 71,
+    "fat" : 0.94,
+    "fiber" : 0.0,
+    "carbs" : 12.74,
+    "sodium" : 0.0,
+    "protein" : 3.48
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24431125232,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Fitline Frischkäse 0,2% Fett",
+    "brand" : "Exquisa",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 12,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 12,
+    "fat" : 0.04,
+    "fiber" : 0.0,
+    "carbs" : 0.7,
+    "sodium" : 0.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24430544918,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Eisbergsalat mit Dressing",
+    "brand" : "VW",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 75,
+    "amount" : 175.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 75,
+    "fat" : 5.02,
+    "fiber" : 0.0,
+    "carbs" : 4.88,
+    "sodium" : 0.0,
+    "protein" : 1.94
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24430936165,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Champion weiß",
+    "brand" : "Markt Frisch",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 22,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 22,
+    "fat" : 0.5,
+    "fiber" : 0.0,
+    "carbs" : 0.1,
+    "sodium" : 0.0,
+    "protein" : 3.1
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24429812081,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Rapsöl",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 133,
+    "amount" : 15.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 133,
+    "fat" : 15.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24430945963,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Zuchini",
+    "brand" : "Gemüse",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 34,
+    "amount" : 200.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 34,
+    "fat" : 0.6,
+    "fiber" : 0.0,
+    "carbs" : 6.2,
+    "sodium" : 0.0,
+    "protein" : 2.4
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24430710993,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Bolognese Sauce",
+    "brand" : "Eigene Herstellung",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 138,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 138,
+    "fat" : 9.8,
+    "fiber" : 0.0,
+    "carbs" : 3.6,
+    "sodium" : 0.0,
+    "protein" : 8.7
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24430711002,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Zuchini",
+    "brand" : "Gemüse",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 34,
+    "amount" : 200.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 34,
+    "fat" : 0.6,
+    "fiber" : 0.0,
+    "carbs" : 6.2,
+    "sodium" : 0.0,
+    "protein" : 2.4
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24429238797,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Marmelade Erdbeere kalorienreduziert",
+    "brand" : "Darbo",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 32,
+    "amount" : 40.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 32,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 9.6,
+    "sodium" : 0.0,
+    "protein" : 0.2
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24428710192,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24428759163,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24429443573,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Fastenbutter",
+    "brand" : "NÖM",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 78,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 78,
+    "fat" : 8.0,
+    "fiber" : 0.0,
+    "carbs" : 0.6,
+    "sodium" : 0.0,
+    "protein" : 0.8
+  },
+  "logDate" : "2021-01-08",
+  "favorite" : false
+},{
+  "logId" : 24417158964,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Weintrauben (rot/grün), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 108,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 108,
+    "fat" : 0.42,
+    "fiber" : 0.0,
+    "carbs" : 22.86,
+    "sodium" : 0.0,
+    "protein" : 1.02
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24417286205,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Fitness nutritious energy",
+    "brand" : "Nestlé",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 88,
+    "amount" : 23.5,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 88,
+    "fat" : 1.88,
+    "fiber" : 0.0,
+    "carbs" : 14.97,
+    "sodium" : 0.0,
+    "protein" : 1.55
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24418089102,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "20 mango",
+    "brand" : "NÖM PRO",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 122,
+    "amount" : 235.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 122,
+    "fat" : 1.17,
+    "fiber" : 0.0,
+    "carbs" : 9.4,
+    "sodium" : 0.0,
+    "protein" : 19.74
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24416876285,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Hej crispy bar Cookie dough",
+    "brand" : "Hej Natural",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 166,
+    "amount" : 45.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 166,
+    "fat" : 6.75,
+    "fiber" : 0.0,
+    "carbs" : 18.0,
+    "sodium" : 0.0,
+    "protein" : 13.95
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24417602322,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Tzatziki",
+    "brand" : "Greco",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 92,
+    "amount" : 70.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 92,
+    "fat" : 7.07,
+    "fiber" : 0.0,
+    "carbs" : 3.15,
+    "sodium" : 0.0,
+    "protein" : 3.78
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24417690388,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24417690389,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Rote Paprika, frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 65,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 65,
+    "fat" : 0.75,
+    "fiber" : 0.0,
+    "carbs" : 9.6,
+    "sodium" : 0.0,
+    "protein" : 1.95
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24416957356,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Cocktailtomaten",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 21,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 21,
+    "fat" : 0.3,
+    "fiber" : 0.0,
+    "carbs" : 3.5,
+    "sodium" : 0.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24416957357,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Fitline Frischkäse 0,2% Fett",
+    "brand" : "Exquisa",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 12,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 12,
+    "fat" : 0.04,
+    "fiber" : 0.0,
+    "carbs" : 0.7,
+    "sodium" : 0.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24417016286,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Salatgurke (ohne Schale), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 71,
+    "amount" : 590.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 71,
+    "fat" : 0.94,
+    "fiber" : 0.0,
+    "carbs" : 12.74,
+    "sodium" : 0.0,
+    "protein" : 3.48
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24419585518,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Sockeye Wildlachs",
+    "brand" : "MSC",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 133,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 133,
+    "fat" : 4.8,
+    "fiber" : 0.0,
+    "carbs" : 1.4,
+    "sodium" : 0.0,
+    "protein" : 21.0
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24417530167,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Spiegelei",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 137,
+    "amount" : 70.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 137,
+    "fat" : 11.06,
+    "fiber" : 0.0,
+    "carbs" : 0.7,
+    "sodium" : 0.0,
+    "protein" : 9.1
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24416865859,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Kartoffeln (ohne Schale), gekocht",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 122,
+    "amount" : 135.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 122,
+    "fat" : 0.03,
+    "fiber" : 0.0,
+    "carbs" : 25.58,
+    "sodium" : 0.0,
+    "protein" : 2.7
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24417306494,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Cremespinat",
+    "brand" : "Iglo",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 140,
+    "amount" : 230.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 140,
+    "fat" : 7.59,
+    "fiber" : 0.0,
+    "carbs" : 8.05,
+    "sodium" : 0.0,
+    "protein" : 8.05
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24416943731,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Marmelade Erdbeere kalorienreduziert",
+    "brand" : "Darbo",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 32,
+    "amount" : 40.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 32,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 9.6,
+    "sodium" : 0.0,
+    "protein" : 0.2
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24417070974,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24417070977,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Fastenbutter",
+    "brand" : "NÖM",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 78,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 78,
+    "fat" : 8.0,
+    "fiber" : 0.0,
+    "carbs" : 0.6,
+    "sodium" : 0.0,
+    "protein" : 0.8
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24417090815,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-07",
+  "favorite" : false
+},{
+  "logId" : 24403448249,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Weintrauben (rot/grün), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 108,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 108,
+    "fat" : 0.42,
+    "fiber" : 0.0,
+    "carbs" : 22.86,
+    "sodium" : 0.0,
+    "protein" : 1.02
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24403733434,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Hej crispy bar Cookie dough",
+    "brand" : "Hej Natural",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 166,
+    "amount" : 45.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 166,
+    "fat" : 6.75,
+    "fiber" : 0.0,
+    "carbs" : 18.0,
+    "sodium" : 0.0,
+    "protein" : 13.95
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24403507282,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Putenfarmerschinken",
+    "brand" : "Billa",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 50,
+    "amount" : 50.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 50,
+    "fat" : 1.0,
+    "fiber" : 0.0,
+    "carbs" : 3.2,
+    "sodium" : 0.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24403840869,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Fitline Frischkäse 0,2% Fett",
+    "brand" : "Exquisa",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 12,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 12,
+    "fat" : 0.04,
+    "fiber" : 0.0,
+    "carbs" : 0.7,
+    "sodium" : 0.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24403135848,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Salatgurke (ohne Schale), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 71,
+    "amount" : 590.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 71,
+    "fat" : 0.94,
+    "fiber" : 0.0,
+    "carbs" : 12.74,
+    "sodium" : 0.0,
+    "protein" : 3.48
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24403350142,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Cocktailtomaten",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 21,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 21,
+    "fat" : 0.3,
+    "fiber" : 0.0,
+    "carbs" : 3.5,
+    "sodium" : 0.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24403379369,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Rote Paprika, frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 65,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 65,
+    "fat" : 0.75,
+    "fiber" : 0.0,
+    "carbs" : 9.6,
+    "sodium" : 0.0,
+    "protein" : 1.95
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24403801772,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Tzatziki",
+    "brand" : "Greco",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 92,
+    "amount" : 70.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 92,
+    "fat" : 7.07,
+    "fiber" : 0.0,
+    "carbs" : 3.15,
+    "sodium" : 0.0,
+    "protein" : 3.78
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24403175166,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24403369021,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Kartoffeln (ohne Schale), gekocht",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 122,
+    "amount" : 135.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 122,
+    "fat" : 0.03,
+    "fiber" : 0.0,
+    "carbs" : 25.58,
+    "sodium" : 0.0,
+    "protein" : 2.7
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24403398481,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Spiegelei",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 137,
+    "amount" : 70.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 137,
+    "fat" : 11.06,
+    "fiber" : 0.0,
+    "carbs" : 0.7,
+    "sodium" : 0.0,
+    "protein" : 9.1
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24403879398,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Putenfrankfurter",
+    "brand" : "Hofstädter",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 223,
+    "amount" : 120.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 223,
+    "fat" : 16.8,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 0.0,
+    "protein" : 18.0
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24404202479,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Cremespinat",
+    "brand" : "Iglo",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 122,
+    "amount" : 200.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 122,
+    "fat" : 6.6,
+    "fiber" : 0.0,
+    "carbs" : 7.0,
+    "sodium" : 0.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24403203594,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Marmelade Erdbeere kalorienreduziert",
+    "brand" : "Darbo",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 32,
+    "amount" : 40.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 32,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 9.6,
+    "sodium" : 0.0,
+    "protein" : 0.2
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24403928432,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24403038944,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24403664126,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Fastenbutter",
+    "brand" : "NÖM",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 78,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 78,
+    "fat" : 8.0,
+    "fiber" : 0.0,
+    "carbs" : 0.6,
+    "sodium" : 0.0,
+    "protein" : 0.8
+  },
+  "logDate" : "2021-01-06",
+  "favorite" : false
+},{
+  "logId" : 24388562290,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Weintrauben (rot/grün), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 108,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 108,
+    "fat" : 0.42,
+    "fiber" : 0.0,
+    "carbs" : 22.86,
+    "sodium" : 0.0,
+    "protein" : 1.02
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24387816959,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Hej crispy bar Cookie dough",
+    "brand" : "Hej Natural",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 166,
+    "amount" : 45.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 166,
+    "fat" : 6.75,
+    "fiber" : 0.0,
+    "carbs" : 18.0,
+    "sodium" : 0.0,
+    "protein" : 13.95
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24387394327,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Rote Paprika, frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 65,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 65,
+    "fat" : 0.75,
+    "fiber" : 0.0,
+    "carbs" : 9.6,
+    "sodium" : 0.0,
+    "protein" : 1.95
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24384958526,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Tzatziki",
+    "brand" : "Greco",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 92,
+    "amount" : 70.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 92,
+    "fat" : 7.07,
+    "fiber" : 0.0,
+    "carbs" : 3.15,
+    "sodium" : 0.0,
+    "protein" : 3.78
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24387669580,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Cocktailtomaten",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 21,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 21,
+    "fat" : 0.3,
+    "fiber" : 0.0,
+    "carbs" : 3.5,
+    "sodium" : 0.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24387738201,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Salatgurke (ohne Schale), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 71,
+    "amount" : 590.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 71,
+    "fat" : 0.94,
+    "fiber" : 0.0,
+    "carbs" : 12.74,
+    "sodium" : 0.0,
+    "protein" : 3.48
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24387865947,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Putenfarmerschinken",
+    "brand" : "Billa",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 50,
+    "amount" : 50.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 50,
+    "fat" : 1.0,
+    "fiber" : 0.0,
+    "carbs" : 3.2,
+    "sodium" : 0.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24385469058,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24388131053,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Fitline Frischkäse 0,2% Fett",
+    "brand" : "Exquisa",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 12,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 12,
+    "fat" : 0.04,
+    "fiber" : 0.0,
+    "carbs" : 0.7,
+    "sodium" : 0.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24387540282,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Kokosöl",
+    "brand" : "Alnatura",
+    "accessLevel" : "PRIVATE",
+    "units" : [189],
+    "calories" : 83,
+    "amount" : 0.01,
+    "unit" : {
+      "id" : 189,
+      "name" : "liter",
+      "plural" : "liters"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 83,
+    "fat" : 9.2,
+    "fiber" : 0.0,
+    "carbs" : 0.05,
+    "sodium" : 0.0,
+    "protein" : 0.05
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24388758330,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Ofenlachs",
+    "brand" : "Almare Seafood (Hofer)",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 273,
+    "amount" : 125.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 273,
+    "fat" : 18.75,
+    "fiber" : 0.0,
+    "carbs" : 5.63,
+    "sodium" : 0.0,
+    "protein" : 21.25
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24384829026,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Zuchini",
+    "brand" : "Gemüse",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 34,
+    "amount" : 200.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 34,
+    "fat" : 0.6,
+    "fiber" : 0.0,
+    "carbs" : 6.2,
+    "sodium" : 0.0,
+    "protein" : 2.4
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24385222013,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Champignons (Pilze), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 36,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 36,
+    "fat" : 0.38,
+    "fiber" : 0.0,
+    "carbs" : 0.84,
+    "sodium" : 0.0,
+    "protein" : 6.16
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24384701083,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Süßkartoffeln, gekocht",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 226,
+    "amount" : 200.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 226,
+    "fat" : 1.16,
+    "fiber" : 0.0,
+    "carbs" : 46.46,
+    "sodium" : 0.0,
+    "protein" : 3.2
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24387031060,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Fastenbutter",
+    "brand" : "NÖM",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 78,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 78,
+    "fat" : 8.0,
+    "fiber" : 0.0,
+    "carbs" : 0.6,
+    "sodium" : 0.0,
+    "protein" : 0.8
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24385144751,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24386598848,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Marmelade Erdbeere kalorienreduziert",
+    "brand" : "Darbo",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 32,
+    "amount" : 40.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 32,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 9.6,
+    "sodium" : 0.0,
+    "protein" : 0.2
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24387600637,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-05",
+  "favorite" : false
+},{
+  "logId" : 24370651772,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Hej crispy bar Cookie dough",
+    "brand" : "Hej Natural",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 166,
+    "amount" : 45.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 166,
+    "fat" : 6.75,
+    "fiber" : 0.0,
+    "carbs" : 18.0,
+    "sodium" : 0.0,
+    "protein" : 13.95
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24371082402,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Weintrauben (rot/grün), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 108,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 108,
+    "fat" : 0.42,
+    "fiber" : 0.0,
+    "carbs" : 22.86,
+    "sodium" : 0.0,
+    "protein" : 1.02
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24374823882,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Fitness nutritious energy",
+    "brand" : "Nestlé",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 88,
+    "amount" : 23.5,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 88,
+    "fat" : 1.88,
+    "fiber" : 0.0,
+    "carbs" : 14.97,
+    "sodium" : 0.0,
+    "protein" : 1.55
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24371004003,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Fitline Frischkäse 0,2% Fett",
+    "brand" : "Exquisa",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 12,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 12,
+    "fat" : 0.04,
+    "fiber" : 0.0,
+    "carbs" : 0.7,
+    "sodium" : 0.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24371465072,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24370183539,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Tzatziki",
+    "brand" : "Greco",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 92,
+    "amount" : 70.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 92,
+    "fat" : 7.07,
+    "fiber" : 0.0,
+    "carbs" : 3.15,
+    "sodium" : 0.0,
+    "protein" : 3.78
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24370857076,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Rote Paprika, frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 65,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 65,
+    "fat" : 0.75,
+    "fiber" : 0.0,
+    "carbs" : 9.6,
+    "sodium" : 0.0,
+    "protein" : 1.95
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24370798483,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Cocktailtomaten",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 21,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 21,
+    "fat" : 0.3,
+    "fiber" : 0.0,
+    "carbs" : 3.5,
+    "sodium" : 0.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24370681038,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Putenfarmerschinken",
+    "brand" : "Billa",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 50,
+    "amount" : 50.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 50,
+    "fat" : 1.0,
+    "fiber" : 0.0,
+    "carbs" : 3.2,
+    "sodium" : 0.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24370115068,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Salatgurke (ohne Schale), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 71,
+    "amount" : 590.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 71,
+    "fat" : 0.94,
+    "fiber" : 0.0,
+    "carbs" : 12.74,
+    "sodium" : 0.0,
+    "protein" : 3.48
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24370905988,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Zuchini",
+    "brand" : "Gemüse",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 34,
+    "amount" : 200.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 34,
+    "fat" : 0.6,
+    "fiber" : 0.0,
+    "carbs" : 6.2,
+    "sodium" : 0.0,
+    "protein" : 2.4
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24370085034,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Les Sauces Hollandaise",
+    "brand" : "Thomy",
+    "accessLevel" : "PRIVATE",
+    "units" : [189],
+    "calories" : 65,
+    "amount" : 0.03,
+    "unit" : {
+      "id" : 189,
+      "name" : "liter",
+      "plural" : "liters"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 65,
+    "fat" : 6.3,
+    "fiber" : 0.0,
+    "carbs" : 1.2,
+    "sodium" : 0.0,
+    "protein" : 0.3
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24370064839,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Kartoffeln (ohne Schale), gekocht",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 122,
+    "amount" : 135.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 122,
+    "fat" : 0.03,
+    "fiber" : 0.0,
+    "carbs" : 25.58,
+    "sodium" : 0.0,
+    "protein" : 2.7
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24370748398,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Ofenlachs",
+    "brand" : "Almare Seafood (Hofer)",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 273,
+    "amount" : 125.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 273,
+    "fat" : 18.75,
+    "fiber" : 0.0,
+    "carbs" : 5.63,
+    "sodium" : 0.0,
+    "protein" : 21.25
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24370396666,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Champion weiß",
+    "brand" : "Markt Frisch",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 22,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 22,
+    "fat" : 0.5,
+    "fiber" : 0.0,
+    "carbs" : 0.1,
+    "sodium" : 0.0,
+    "protein" : 3.1
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24371928622,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Fastenbutter",
+    "brand" : "NÖM",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 78,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 78,
+    "fat" : 8.0,
+    "fiber" : 0.0,
+    "carbs" : 0.6,
+    "sodium" : 0.0,
+    "protein" : 0.8
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24372164529,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24370780635,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Marmelade Erdbeere kalorienreduziert",
+    "brand" : "Darbo",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 32,
+    "amount" : 40.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 32,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 9.6,
+    "sodium" : 0.0,
+    "protein" : 0.2
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24371418081,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Dinkelbrötchen",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 136,
+    "amount" : 60.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 136,
+    "fat" : 2.04,
+    "fiber" : 0.0,
+    "carbs" : 22.8,
+    "sodium" : 0.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-01-04",
+  "favorite" : false
+},{
+  "logId" : 24358392160,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Knusperbrot Vital",
+    "brand" : "Leicht Und Cross",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 27,
+    "amount" : 7.5,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 27,
+    "fat" : 0.19,
+    "fiber" : 0.0,
+    "carbs" : 5.18,
+    "sodium" : 0.0,
+    "protein" : 0.82
+  },
+  "logDate" : "2021-01-03",
+  "favorite" : false
+},{
+  "logId" : 24360051083,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Weintrauben (rot/grün), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 108,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 108,
+    "fat" : 0.42,
+    "fiber" : 0.0,
+    "carbs" : 22.86,
+    "sodium" : 0.0,
+    "protein" : 1.02
+  },
+  "logDate" : "2021-01-03",
+  "favorite" : false
+},{
+  "logId" : 24360927464,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Hej crispy bar Cookie dough",
+    "brand" : "Hej Natural",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 166,
+    "amount" : 45.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 166,
+    "fat" : 6.75,
+    "fiber" : 0.0,
+    "carbs" : 18.0,
+    "sodium" : 0.0,
+    "protein" : 13.95
+  },
+  "logDate" : "2021-01-03",
+  "favorite" : false
+}]

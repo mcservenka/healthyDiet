@@ -1,0 +1,811 @@
+[{
+  "logId" : 19733440734,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Hühnerkeule gegrillt",
+    "brand" : "Eigene Herstellung",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 177,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 177,
+    "fat" : 9.51,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 0.0,
+    "protein" : 21.1
+  },
+  "logDate" : "2019-11-10",
+  "favorite" : false
+},{
+  "logId" : 19733753329,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Kaiser Gemüse",
+    "brand" : "Clever",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 60,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 1.05,
+    "fiber" : 0.0,
+    "carbs" : 6.3,
+    "sodium" : 0.0,
+    "protein" : 4.2
+  },
+  "logDate" : "2019-11-10",
+  "favorite" : false
+},{
+  "logId" : 19732899586,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Apfel (mit Schale), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 85,
+    "amount" : 130.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 85,
+    "fat" : 0.06,
+    "fiber" : 0.0,
+    "carbs" : 18.66,
+    "sodium" : 0.0,
+    "protein" : 0.44
+  },
+  "logDate" : "2019-11-10",
+  "favorite" : false
+},{
+  "logId" : 19733240357,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Puten-Farmer-Schinken",
+    "brand" : "Berger",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 71,
+    "amount" : 70.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 71,
+    "fat" : 1.4,
+    "fiber" : 0.0,
+    "carbs" : 0.84,
+    "sodium" : 0.0,
+    "protein" : 13.3
+  },
+  "logDate" : "2019-11-10",
+  "favorite" : false
+},{
+  "logId" : 19733601102,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Fitline Frischkäse 0,2% Fett",
+    "brand" : "Exquisa",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 13,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 13,
+    "fat" : 0.04,
+    "fiber" : 0.0,
+    "carbs" : 0.78,
+    "sodium" : 0.0,
+    "protein" : 2.2
+  },
+  "logDate" : "2019-11-10",
+  "favorite" : false
+},{
+  "logId" : 19733142875,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Spinat (Blattspinat), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 7,
+    "amount" : 30.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 7,
+    "fat" : 0.09,
+    "fiber" : 0.0,
+    "carbs" : 0.18,
+    "sodium" : 0.0,
+    "protein" : 0.84
+  },
+  "logDate" : "2019-11-10",
+  "favorite" : false
+},{
+  "logId" : 19733738221,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Guten Abend Brot",
+    "brand" : "New Lifestyle Hofer",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 123,
+    "amount" : 48.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 123,
+    "fat" : 6.24,
+    "fiber" : 0.0,
+    "carbs" : 3.17,
+    "sodium" : 0.0,
+    "protein" : 9.6
+  },
+  "logDate" : "2019-11-10",
+  "favorite" : false
+},{
+  "logId" : 19733308402,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Banane (ohne Schale), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 140,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 140,
+    "fat" : 0.27,
+    "fiber" : 0.0,
+    "carbs" : 30.05,
+    "sodium" : 0.0,
+    "protein" : 1.73
+  },
+  "logDate" : "2019-11-10",
+  "favorite" : false
+},{
+  "logId" : 19731368606,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Weintrauben, frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 108,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 7
+  },
+  "nutritionalValues" : {
+    "calories" : 108,
+    "fat" : 0.42,
+    "fiber" : 0.0,
+    "carbs" : 22.86,
+    "sodium" : 0.0,
+    "protein" : 1.02
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19731563891,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Rote Paprika, frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 32,
+    "amount" : 75.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 32,
+    "fat" : 0.38,
+    "fiber" : 0.0,
+    "carbs" : 4.8,
+    "sodium" : 0.0,
+    "protein" : 0.98
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19730744445,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Salatgurke (ohne Schale), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 18,
+    "amount" : 147.5,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 18,
+    "fat" : 0.24,
+    "fiber" : 0.0,
+    "carbs" : 3.19,
+    "sodium" : 0.0,
+    "protein" : 0.87
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19731505036,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Räucherlachs",
+    "brand" : "Clever",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 171,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 171,
+    "fat" : 9.5,
+    "fiber" : 0.0,
+    "carbs" : 0.3,
+    "sodium" : 0.0,
+    "protein" : 21.0
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19730655140,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Cocktail Tomaten",
+    "brand" : "Spar Vital",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 28,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 28,
+    "fat" : 0.1,
+    "fiber" : 0.0,
+    "carbs" : 3.5,
+    "sodium" : 0.0,
+    "protein" : 1.6
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19730802858,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Tortilla Wraps",
+    "brand" : "Beste Wahl (Rewe)",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 186,
+    "amount" : 61.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 186,
+    "fat" : 4.7,
+    "fiber" : 0.0,
+    "carbs" : 30.01,
+    "sodium" : 0.0,
+    "protein" : 5.25
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19731066039,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Oberskren",
+    "brand" : "Mautner Markhof",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 63,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 63,
+    "fat" : 5.6,
+    "fiber" : 0.0,
+    "carbs" : 2.4,
+    "sodium" : 0.0,
+    "protein" : 0.3
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19731593173,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Eisbergsalat",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 6,
+    "amount" : 40.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 6,
+    "fat" : 0.04,
+    "fiber" : 0.0,
+    "carbs" : 1.2,
+    "sodium" : 0.0,
+    "protein" : 0.36
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19731388376,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Blattspinat",
+    "brand" : "Edeka",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 7,
+    "amount" : 30.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 7,
+    "fat" : 0.12,
+    "fiber" : 0.0,
+    "carbs" : 0.18,
+    "sodium" : 0.0,
+    "protein" : 0.84
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19730861341,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Rind, Rindfleisch, mager",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 151,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 151,
+    "fat" : 4.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 0.0,
+    "protein" : 29.0
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19731290915,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Champions weiss",
+    "brand" : "Lidl",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 19,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 19,
+    "fat" : 0.4,
+    "fiber" : 0.0,
+    "carbs" : 0.6,
+    "sodium" : 0.0,
+    "protein" : 2.2
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19730506281,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Rama Cremefine 7% Zum Kochen",
+    "brand" : "Rama",
+    "accessLevel" : "PRIVATE",
+    "units" : [189],
+    "calories" : 45,
+    "amount" : 0.05,
+    "unit" : {
+      "id" : 189,
+      "name" : "liter",
+      "plural" : "liters"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 45,
+    "fat" : 3.5,
+    "fiber" : 0.0,
+    "carbs" : 2.25,
+    "sodium" : 0.0,
+    "protein" : 0.5
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19730714454,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Knoblauchöl",
+    "brand" : "Kunella Feinkost",
+    "accessLevel" : "PRIVATE",
+    "units" : [189],
+    "calories" : 82,
+    "amount" : 0.01,
+    "unit" : {
+      "id" : 189,
+      "name" : "liter",
+      "plural" : "liters"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 82,
+    "fat" : 9.1,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19731173320,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Zucchini, frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 92,
+    "amount" : 400.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 92,
+    "fat" : 1.16,
+    "fiber" : 0.0,
+    "carbs" : 9.04,
+    "sodium" : 0.0,
+    "protein" : 8.12
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19730832079,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Zwiebel, frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 19,
+    "amount" : 63.75,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 19,
+    "fat" : 0.16,
+    "fiber" : 0.0,
+    "carbs" : 3.14,
+    "sodium" : 0.0,
+    "protein" : 0.75
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19731622120,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Kartoffeln (ohne Schale), gekocht",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 135,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 135,
+    "fat" : 0.03,
+    "fiber" : 0.0,
+    "carbs" : 28.42,
+    "sodium" : 0.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19731277353,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Puten-Farmer-Schinken",
+    "brand" : "Berger",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 71,
+    "amount" : 70.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 71,
+    "fat" : 1.4,
+    "fiber" : 0.0,
+    "carbs" : 0.84,
+    "sodium" : 0.0,
+    "protein" : 13.3
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19731257935,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Fitline Frischkäse 0,2% Fett",
+    "brand" : "Exquisa",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 13,
+    "amount" : 20.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 13,
+    "fat" : 0.04,
+    "fiber" : 0.0,
+    "carbs" : 0.78,
+    "sodium" : 0.0,
+    "protein" : 2.2
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19730370180,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Guten Abend Brot",
+    "brand" : "New Lifestyle Hofer",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 123,
+    "amount" : 48.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 123,
+    "fat" : 6.24,
+    "fiber" : 0.0,
+    "carbs" : 3.17,
+    "sodium" : 0.0,
+    "protein" : 9.6
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19731033221,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Spinat (Blattspinat), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 7,
+    "amount" : 30.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 7,
+    "fat" : 0.09,
+    "fiber" : 0.0,
+    "carbs" : 0.18,
+    "sodium" : 0.0,
+    "protein" : 0.84
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19730545876,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Apfel (mit Schale), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 85,
+    "amount" : 130.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 85,
+    "fat" : 0.06,
+    "fiber" : 0.0,
+    "carbs" : 18.66,
+    "sodium" : 0.0,
+    "protein" : 0.44
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+},{
+  "logId" : 19731013869,
+  "loggedFood" : {
+    "foodId" : 0,
+    "name" : "Banane (ohne Schale), frisch",
+    "brand" : "",
+    "accessLevel" : "PRIVATE",
+    "units" : [147],
+    "calories" : 140,
+    "amount" : 150.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 140,
+    "fat" : 0.27,
+    "fiber" : 0.0,
+    "carbs" : 30.05,
+    "sodium" : 0.0,
+    "protein" : 1.73
+  },
+  "logDate" : "2019-11-09",
+  "favorite" : false
+}]

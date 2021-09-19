@@ -1,0 +1,5848 @@
+[{
+  "logId" : 31737245042,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 21,
+    "name" : "fairly"
+  },{
+    "minutes" : 18,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 102,
+  "calories" : 245,
+  "duration" : 2611000,
+  "activeDuration" : 2611000,
+  "steps" : 4102,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 44
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/05/20 17:21:25",
+  "startTime" : "06/05/20 13:12:41",
+  "originalStartTime" : "06/05/20 13:12:41",
+  "originalDuration" : 2611000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31740825385,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 14,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 103,
+  "calories" : 160,
+  "duration" : 1793000,
+  "activeDuration" : 1793000,
+  "steps" : 2563,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 29
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 1
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/05/20 21:02:56",
+  "startTime" : "06/05/20 17:36:21",
+  "originalStartTime" : "06/05/20 17:36:21",
+  "originalDuration" : 1793000,
+  "elevationGain" : 3.048,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31749752495,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 9,
+    "name" : "fairly"
+  },{
+    "minutes" : 13,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 104,
+  "calories" : 142,
+  "duration" : 1587000,
+  "activeDuration" : 1587000,
+  "steps" : 2292,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 26
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/06/20 07:07:51",
+  "startTime" : "06/06/20 06:29:30",
+  "originalStartTime" : "06/06/20 06:29:30",
+  "originalDuration" : 1587000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31752321873,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 15,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 113,
+  "calories" : 94,
+  "duration" : 1178000,
+  "activeDuration" : 1178000,
+  "steps" : 943,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 16
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 4
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/06/20 11:31:06",
+  "startTime" : "06/06/20 08:46:53",
+  "originalStartTime" : "06/06/20 08:46:53",
+  "originalDuration" : 1178000,
+  "elevationGain" : 6.096,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31752321876,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 3,
+    "name" : "fairly"
+  },{
+    "minutes" : 13,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 132,
+  "calories" : 110,
+  "duration" : 973000,
+  "activeDuration" : 973000,
+  "steps" : 900,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 0
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 16
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/06/20 11:31:06",
+  "startTime" : "06/06/20 09:57:43",
+  "originalStartTime" : "06/06/20 09:57:43",
+  "originalDuration" : 973000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31763146334,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 12,
+    "name" : "lightly"
+  },{
+    "minutes" : 9,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 100,
+  "calories" : 90,
+  "duration" : 1228000,
+  "activeDuration" : 1228000,
+  "steps" : 1172,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 1
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 20
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/06/20 20:39:34",
+  "startTime" : "06/06/20 14:14:35",
+  "originalStartTime" : "06/06/20 14:14:35",
+  "originalDuration" : 1228000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31763146336,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 11,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 100,
+  "calories" : 150,
+  "duration" : 1792000,
+  "activeDuration" : 1792000,
+  "steps" : 2417,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 29
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/06/20 20:39:34",
+  "startTime" : "06/06/20 17:41:05",
+  "originalStartTime" : "06/06/20 17:41:05",
+  "originalDuration" : 1792000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31769479764,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 13,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 104,
+  "calories" : 149,
+  "duration" : 1690000,
+  "activeDuration" : 1690000,
+  "steps" : 2403,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 25
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/07/20 07:39:52",
+  "startTime" : "06/07/20 06:57:21",
+  "originalStartTime" : "06/07/20 06:57:21",
+  "originalDuration" : 1690000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31781712871,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 12,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 101,
+  "calories" : 153,
+  "duration" : 1689000,
+  "activeDuration" : 1689000,
+  "steps" : 2576,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 29
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/07/20 18:30:39",
+  "startTime" : "06/07/20 17:39:55",
+  "originalStartTime" : "06/07/20 17:39:55",
+  "originalDuration" : 1689000,
+  "elevationGain" : 24.384,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31790730705,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 13,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 104,
+  "calories" : 134,
+  "duration" : 1434000,
+  "activeDuration" : 1434000,
+  "steps" : 2197,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 24
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/08/20 07:13:57",
+  "startTime" : "06/08/20 06:32:11",
+  "originalStartTime" : "06/08/20 06:32:11",
+  "originalDuration" : 1434000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31795510692,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 4,
+    "name" : "fairly"
+  },{
+    "minutes" : 6,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 105,
+  "calories" : 86,
+  "duration" : 1075000,
+  "activeDuration" : 1075000,
+  "steps" : 1262,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 14
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 3
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/08/20 13:16:44",
+  "startTime" : "06/08/20 12:47:40",
+  "originalStartTime" : "06/08/20 12:47:40",
+  "originalDuration" : 1075000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31798669324,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 26,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 102,
+  "calories" : 238,
+  "duration" : 2611000,
+  "activeDuration" : 2611000,
+  "steps" : 3943,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 43
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/08/20 15:32:48",
+  "startTime" : "06/08/20 14:36:02",
+  "originalStartTime" : "06/08/20 14:36:02",
+  "originalDuration" : 2611000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31816421176,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 99,
+  "calories" : 107,
+  "duration" : 1280000,
+  "activeDuration" : 1280000,
+  "steps" : 1748,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 21
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/08/20 21:03:31",
+  "startTime" : "06/08/20 17:45:29",
+  "originalStartTime" : "06/08/20 17:45:29",
+  "originalDuration" : 1280000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31828671671,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 12,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 104,
+  "calories" : 136,
+  "duration" : 1537000,
+  "activeDuration" : 1537000,
+  "steps" : 2164,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 25
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/09/20 12:59:15",
+  "startTime" : "06/09/20 06:34:21",
+  "originalStartTime" : "06/09/20 06:34:21",
+  "originalDuration" : 1537000,
+  "elevationGain" : 3.048,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31829699079,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 100,
+  "calories" : 145,
+  "duration" : 1639000,
+  "activeDuration" : 1639000,
+  "steps" : 2361,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 27
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/09/20 13:59:39",
+  "startTime" : "06/09/20 13:14:34",
+  "originalStartTime" : "06/09/20 13:14:34",
+  "originalDuration" : 1639000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31806125552,
+  "activityName" : "Laufen",
+  "activityTypeId" : 90009,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 35,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 152,
+  "calories" : 364,
+  "distance" : 4.085562,
+  "distanceUnit" : "Kilometer",
+  "duration" : 3824000,
+  "activeDuration" : 2102000,
+  "steps" : 5402,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Versa 2",
+    "id" : "150543338",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["PACE","VO2_MAX","GPS","DISTANCE","STEPS","HEARTRATE","CALORIES","ELEVATION"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "tcxLink" : "https://www.fitbit.com/activities/exercise/31806125552?export=tcx",
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 0
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 1
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 34
+  }],
+  "speed" : 6.891653663177925,
+  "pace" : 522.3709977236355,
+  "vo2Max" : {
+    "vo2Max" : 31.559600000000003
+  },
+  "lastModified" : "06/09/20 15:58:42",
+  "startTime" : "06/09/20 14:44:24",
+  "originalStartTime" : "06/09/20 14:44:24",
+  "originalDuration" : 3824000,
+  "elevationGain" : 1.219,
+  "hasGps" : true,
+  "shouldFetchDetails" : true,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31836194116,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 18,
+    "name" : "fairly"
+  },{
+    "minutes" : 12,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 108,
+  "calories" : 186,
+  "duration" : 2048000,
+  "activeDuration" : 2048000,
+  "steps" : 2823,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 33
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 1
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/09/20 19:23:11",
+  "startTime" : "06/09/20 17:33:08",
+  "originalStartTime" : "06/09/20 17:33:08",
+  "originalDuration" : 2048000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31853648953,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 103,
+  "calories" : 138,
+  "duration" : 1485000,
+  "activeDuration" : 1485000,
+  "steps" : 2217,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 25
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/10/20 07:06:42",
+  "startTime" : "06/10/20 06:37:21",
+  "originalStartTime" : "06/10/20 06:37:21",
+  "originalDuration" : 1485000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31864120551,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 14,
+    "name" : "fairly"
+  },{
+    "minutes" : 23,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 99,
+  "calories" : 235,
+  "duration" : 2611000,
+  "activeDuration" : 2611000,
+  "steps" : 3892,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 43
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/10/20 18:40:03",
+  "startTime" : "06/10/20 13:13:18",
+  "originalStartTime" : "06/10/20 13:13:18",
+  "originalDuration" : 2611000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31864120554,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 8,
+    "name" : "fairly"
+  },{
+    "minutes" : 18,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 103,
+  "calories" : 160,
+  "duration" : 1689000,
+  "activeDuration" : 1689000,
+  "steps" : 2673,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 28
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/10/20 18:40:03",
+  "startTime" : "06/10/20 17:43:49",
+  "originalStartTime" : "06/10/20 17:43:49",
+  "originalDuration" : 1689000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31876902373,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 8,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 104,
+  "calories" : 146,
+  "duration" : 1587000,
+  "activeDuration" : 1587000,
+  "steps" : 2242,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 27
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/11/20 08:48:39",
+  "startTime" : "06/11/20 06:56:34",
+  "originalStartTime" : "06/11/20 06:56:34",
+  "originalDuration" : 1587000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31867462827,
+  "activityName" : "Laufen",
+  "activityTypeId" : 90009,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 49,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 146,
+  "calories" : 483,
+  "distance" : 5.610203,
+  "distanceUnit" : "Kilometer",
+  "duration" : 3157000,
+  "activeDuration" : 2946000,
+  "steps" : 7468,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Versa 2",
+    "id" : "150543338",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["PACE","VO2_MAX","GPS","DISTANCE","STEPS","HEARTRATE","CALORIES","ELEVATION"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "tcxLink" : "https://www.fitbit.com/activities/exercise/31867462827?export=tcx",
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 1
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 8
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 40
+  }],
+  "speed" : 6.821718940936863,
+  "pace" : 527.7262272411347,
+  "vo2Max" : {
+    "vo2Max" : 32.15751
+  },
+  "lastModified" : "06/11/20 09:46:21",
+  "startTime" : "06/11/20 08:49:40",
+  "originalStartTime" : "06/11/20 08:49:40",
+  "originalDuration" : 3157000,
+  "elevationGain" : 2.438,
+  "hasGps" : true,
+  "shouldFetchDetails" : true,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31880885108,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 101,
+  "calories" : 91,
+  "duration" : 973000,
+  "activeDuration" : 973000,
+  "steps" : 1428,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 17
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/11/20 13:45:33",
+  "startTime" : "06/11/20 13:18:00",
+  "originalStartTime" : "06/11/20 13:18:00",
+  "originalDuration" : 973000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31887223458,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 10,
+    "name" : "lightly"
+  },{
+    "minutes" : 20,
+    "name" : "fairly"
+  },{
+    "minutes" : 5,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 96,
+  "calories" : 173,
+  "duration" : 2151000,
+  "activeDuration" : 2151000,
+  "steps" : 2800,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 35
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/11/20 18:17:58",
+  "startTime" : "06/11/20 17:39:07",
+  "originalStartTime" : "06/11/20 17:39:07",
+  "originalDuration" : 2151000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31914045752,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 10,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 9,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 101,
+  "calories" : 158,
+  "duration" : 1894000,
+  "activeDuration" : 1894000,
+  "steps" : 2528,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 32
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/12/20 07:20:59",
+  "startTime" : "06/12/20 06:46:46",
+  "originalStartTime" : "06/12/20 06:46:46",
+  "originalDuration" : 1894000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31914968122,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 14,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 109,
+  "calories" : 79,
+  "duration" : 1024000,
+  "activeDuration" : 1024000,
+  "steps" : 804,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 17
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/12/20 08:51:42",
+  "startTime" : "06/12/20 08:25:45",
+  "originalStartTime" : "06/12/20 08:25:45",
+  "originalDuration" : 1024000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31907533837,
+  "activityName" : "Radfahren",
+  "activityTypeId" : 90001,
+  "activityLevel" : [{
+    "minutes" : 7,
+    "name" : "sedentary"
+  },{
+    "minutes" : 12,
+    "name" : "lightly"
+  },{
+    "minutes" : 13,
+    "name" : "fairly"
+  },{
+    "minutes" : 13,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 115,
+  "calories" : 215,
+  "distance" : 8.485046,
+  "distanceUnit" : "Kilometer",
+  "duration" : 2748000,
+  "activeDuration" : 2743000,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Versa 2",
+    "id" : "150543338",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["GPS","DISTANCE","SPEED","HEARTRATE","CALORIES","ELEVATION"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "tcxLink" : "https://www.fitbit.com/activities/exercise/31907533837?export=tcx",
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 5
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 12
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 28
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "speed" : 11.06921910317171,
+  "lastModified" : "06/12/20 14:58:19",
+  "startTime" : "06/12/20 14:05:18",
+  "originalStartTime" : "06/12/20 14:05:18",
+  "originalDuration" : 2748000,
+  "elevationGain" : 4.877,
+  "hasGps" : true,
+  "shouldFetchDetails" : true,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31924600162,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 15,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 103,
+  "calories" : 159,
+  "duration" : 1792000,
+  "activeDuration" : 1792000,
+  "steps" : 2581,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 30
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/12/20 18:23:15",
+  "startTime" : "06/12/20 17:45:32",
+  "originalStartTime" : "06/12/20 17:45:32",
+  "originalDuration" : 1792000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31933835498,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 20,
+    "name" : "fairly"
+  },{
+    "minutes" : 9,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 102,
+  "calories" : 172,
+  "duration" : 1997000,
+  "activeDuration" : 1997000,
+  "steps" : 2629,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 32
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 1
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/13/20 07:36:38",
+  "startTime" : "06/13/20 06:47:11",
+  "originalStartTime" : "06/13/20 06:47:11",
+  "originalDuration" : 1997000,
+  "elevationGain" : 6.096,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31946961330,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 20,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 107,
+  "calories" : 178,
+  "duration" : 2048000,
+  "activeDuration" : 2048000,
+  "steps" : 2678,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 34
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/13/20 18:23:44",
+  "startTime" : "06/13/20 17:36:35",
+  "originalStartTime" : "06/13/20 17:36:35",
+  "originalDuration" : 2048000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31938403673,
+  "activityName" : "Laufen",
+  "activityTypeId" : 90009,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 33,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 148,
+  "calories" : 340,
+  "distance" : 3.932492,
+  "distanceUnit" : "Kilometer",
+  "duration" : 2199000,
+  "activeDuration" : 1986000,
+  "steps" : 5128,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Versa 2",
+    "id" : "150543338",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["PACE","VO2_MAX","GPS","DISTANCE","STEPS","HEARTRATE","CALORIES","ELEVATION"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "tcxLink" : "https://www.fitbit.com/activities/exercise/31938403673?export=tcx",
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 1
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 1
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 31
+  }],
+  "speed" : 7.01209667673716,
+  "pace" : 513.3985120232451,
+  "vo2Max" : {
+    "vo2Max" : 32.395410000000005
+  },
+  "lastModified" : "06/14/20 05:47:45",
+  "startTime" : "06/14/20 05:02:07",
+  "originalStartTime" : "06/14/20 05:02:07",
+  "originalDuration" : 2199000,
+  "elevationGain" : 0.61,
+  "hasGps" : true,
+  "shouldFetchDetails" : true,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31957692642,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 107,
+  "calories" : 117,
+  "duration" : 1280000,
+  "activeDuration" : 1280000,
+  "steps" : 1640,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 21
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 1
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/14/20 07:33:35",
+  "startTime" : "06/14/20 06:57:52",
+  "originalStartTime" : "06/14/20 06:57:52",
+  "originalDuration" : 1280000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31970087689,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 7,
+    "name" : "lightly"
+  },{
+    "minutes" : 18,
+    "name" : "fairly"
+  },{
+    "minutes" : 17,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 101,
+  "calories" : 224,
+  "duration" : 2560000,
+  "activeDuration" : 2560000,
+  "steps" : 3571,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 42
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/14/20 18:20:37",
+  "startTime" : "06/14/20 17:31:02",
+  "originalStartTime" : "06/14/20 17:31:02",
+  "originalDuration" : 2560000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31981649465,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 8,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 98,
+  "calories" : 152,
+  "duration" : 1690000,
+  "activeDuration" : 1690000,
+  "steps" : 2504,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 28
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/15/20 07:25:48",
+  "startTime" : "06/15/20 06:47:12",
+  "originalStartTime" : "06/15/20 06:47:12",
+  "originalDuration" : 1690000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31968680427,
+  "activityName" : "Tennis",
+  "activityTypeId" : 15675,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 29,
+    "name" : "fairly"
+  },{
+    "minutes" : 46,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 119,
+  "calories" : 470,
+  "distance" : 3.305078,
+  "distanceUnit" : "Kilometer",
+  "duration" : 4757000,
+  "activeDuration" : 4609000,
+  "steps" : 5339,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Versa 2",
+    "id" : "150543338",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["DISTANCE","STEPS","HEARTRATE","CALORIES"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 23
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 54
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "speed" : 2.58153352137123,
+  "lastModified" : "06/15/20 12:54:57",
+  "startTime" : "06/15/20 11:32:52",
+  "originalStartTime" : "06/15/20 11:32:52",
+  "originalDuration" : 4757000,
+  "elevationGain" : 14.326,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 31992751592,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 15,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 13,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 101,
+  "calories" : 184,
+  "duration" : 2100000,
+  "activeDuration" : 2100000,
+  "steps" : 2947,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 35
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/15/20 18:30:21",
+  "startTime" : "06/15/20 17:37:26",
+  "originalStartTime" : "06/15/20 17:37:26",
+  "originalDuration" : 2100000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32009049196,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 10,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 100,
+  "calories" : 128,
+  "duration" : 1434000,
+  "activeDuration" : 1434000,
+  "steps" : 2056,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 24
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/16/20 07:15:32",
+  "startTime" : "06/16/20 06:36:32",
+  "originalStartTime" : "06/16/20 06:36:32",
+  "originalDuration" : 1434000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32015935068,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 8,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 97,
+  "calories" : 138,
+  "duration" : 1587000,
+  "activeDuration" : 1587000,
+  "steps" : 2295,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 26
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/16/20 13:50:54",
+  "startTime" : "06/16/20 13:19:19",
+  "originalStartTime" : "06/16/20 13:19:19",
+  "originalDuration" : 1587000,
+  "elevationGain" : 3.048,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32021440719,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 17,
+    "name" : "fairly"
+  },{
+    "minutes" : 9,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 98,
+  "calories" : 167,
+  "duration" : 1997000,
+  "activeDuration" : 1997000,
+  "steps" : 2708,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 33
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/16/20 18:21:48",
+  "startTime" : "06/16/20 17:40:26",
+  "originalStartTime" : "06/16/20 17:40:26",
+  "originalDuration" : 1997000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32040219275,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 16,
+    "name" : "fairly"
+  },{
+    "minutes" : 4,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 99,
+  "calories" : 125,
+  "duration" : 1536000,
+  "activeDuration" : 1536000,
+  "steps" : 1944,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 25
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/17/20 07:13:30",
+  "startTime" : "06/17/20 06:31:03",
+  "originalStartTime" : "06/17/20 06:31:03",
+  "originalDuration" : 1536000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32028366831,
+  "activityName" : "Laufen",
+  "activityTypeId" : 90009,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 43,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 149,
+  "calories" : 445,
+  "distance" : 5.140593,
+  "distanceUnit" : "Kilometer",
+  "duration" : 2735000,
+  "activeDuration" : 2577000,
+  "steps" : 6701,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Versa 2",
+    "id" : "150543338",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["PACE","VO2_MAX","GPS","DISTANCE","STEPS","HEARTRATE","CALORIES","ELEVATION"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "tcxLink" : "https://www.fitbit.com/activities/exercise/32028366831?export=tcx",
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 0
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 3
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 40
+  }],
+  "speed" : 7.141578579743889,
+  "pace" : 504.0902315646162,
+  "vo2Max" : {
+    "vo2Max" : 32.79177
+  },
+  "lastModified" : "06/17/20 09:18:21",
+  "startTime" : "06/17/20 08:18:25",
+  "originalStartTime" : "06/17/20 08:18:25",
+  "originalDuration" : 2735000,
+  "elevationGain" : 3.048,
+  "hasGps" : true,
+  "shouldFetchDetails" : true,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32024223357,
+  "activityName" : "Training",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 17,
+    "name" : "sedentary"
+  },{
+    "minutes" : 9,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 4,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 105,
+  "calories" : 97,
+  "duration" : 1905000,
+  "activeDuration" : 1901000,
+  "steps" : 292,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Versa 2",
+    "id" : "150543338",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["STEPS","HEARTRATE","CALORIES"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 1
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 25
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 2
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 3
+  }],
+  "lastModified" : "06/17/20 09:48:40",
+  "startTime" : "06/17/20 09:04:16",
+  "originalStartTime" : "06/17/20 09:04:16",
+  "originalDuration" : 1905000,
+  "elevationGain" : 10.058,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32045807264,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 17,
+    "name" : "fairly"
+  },{
+    "minutes" : 10,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 100,
+  "calories" : 166,
+  "duration" : 1894000,
+  "activeDuration" : 1894000,
+  "steps" : 2681,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 31
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/17/20 14:04:03",
+  "startTime" : "06/17/20 13:18:06",
+  "originalStartTime" : "06/17/20 13:18:06",
+  "originalDuration" : 1894000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32046758690,
+  "activityName" : "Aerobic",
+  "activityTypeId" : 3001,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 12,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 105,
+  "calories" : 72,
+  "duration" : 973000,
+  "activeDuration" : 973000,
+  "steps" : 830,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 16
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/17/20 15:04:28",
+  "startTime" : "06/17/20 14:36:36",
+  "originalStartTime" : "06/17/20 14:36:36",
+  "originalDuration" : 973000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32050509259,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 8,
+    "name" : "lightly"
+  },{
+    "minutes" : 14,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 99,
+  "calories" : 150,
+  "duration" : 1792000,
+  "activeDuration" : 1792000,
+  "steps" : 2343,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 30
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/17/20 18:19:35",
+  "startTime" : "06/17/20 17:44:20",
+  "originalStartTime" : "06/17/20 17:44:20",
+  "originalDuration" : 1792000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32063065908,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 7,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 105,
+  "calories" : 134,
+  "duration" : 1588000,
+  "activeDuration" : 1588000,
+  "steps" : 2064,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 26
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/18/20 07:10:07",
+  "startTime" : "06/18/20 06:38:18",
+  "originalStartTime" : "06/18/20 06:38:18",
+  "originalDuration" : 1588000,
+  "elevationGain" : 9.144,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32069427553,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 18,
+    "name" : "fairly"
+  },{
+    "minutes" : 10,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 99,
+  "calories" : 180,
+  "duration" : 2048000,
+  "activeDuration" : 2048000,
+  "steps" : 2965,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 34
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/18/20 14:02:54",
+  "startTime" : "06/18/20 13:24:30",
+  "originalStartTime" : "06/18/20 13:24:30",
+  "originalDuration" : 2048000,
+  "elevationGain" : 3.048,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32073348639,
+  "activityName" : "Radfahren im Freien",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 8,
+    "name" : "fairly"
+  },{
+    "minutes" : 46,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 119,
+  "calories" : 388,
+  "duration" : 3635000,
+  "activeDuration" : 3635000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 21
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 39
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/18/20 17:24:35",
+  "startTime" : "06/18/20 14:47:16",
+  "originalStartTime" : "06/18/20 14:47:16",
+  "originalDuration" : 3635000,
+  "elevationGain" : 6.096,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32074014379,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 19,
+    "name" : "fairly"
+  },{
+    "minutes" : 5,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 101,
+  "calories" : 146,
+  "duration" : 1741000,
+  "activeDuration" : 1741000,
+  "steps" : 2251,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 29
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/18/20 18:10:21",
+  "startTime" : "06/18/20 17:37:56",
+  "originalStartTime" : "06/18/20 17:37:56",
+  "originalDuration" : 1741000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32085794885,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 7,
+    "name" : "lightly"
+  },{
+    "minutes" : 12,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 98,
+  "calories" : 140,
+  "duration" : 1638000,
+  "activeDuration" : 1638000,
+  "steps" : 2282,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 28
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/19/20 07:20:44",
+  "startTime" : "06/19/20 06:44:43",
+  "originalStartTime" : "06/19/20 06:44:43",
+  "originalDuration" : 1638000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32091745278,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 19,
+    "name" : "fairly"
+  },{
+    "minutes" : 21,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 100,
+  "calories" : 242,
+  "duration" : 2663000,
+  "activeDuration" : 2663000,
+  "steps" : 4015,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 44
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/19/20 13:53:12",
+  "startTime" : "06/19/20 12:54:12",
+  "originalStartTime" : "06/19/20 12:54:12",
+  "originalDuration" : 2663000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32097179788,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 101,
+  "calories" : 152,
+  "duration" : 1639000,
+  "activeDuration" : 1639000,
+  "steps" : 2563,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 27
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/19/20 18:48:02",
+  "startTime" : "06/19/20 18:05:40",
+  "originalStartTime" : "06/19/20 18:05:40",
+  "originalDuration" : 1639000,
+  "elevationGain" : 3.048,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32086158933,
+  "activityName" : "Laufen",
+  "activityTypeId" : 90009,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 35,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 147,
+  "calories" : 351,
+  "distance" : 4.249796,
+  "distanceUnit" : "Kilometer",
+  "duration" : 2351000,
+  "activeDuration" : 2084000,
+  "steps" : 5453,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Versa 2",
+    "id" : "150543338",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["PACE","VO2_MAX","GPS","DISTANCE","STEPS","HEARTRATE","CALORIES","ELEVATION"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "tcxLink" : "https://www.fitbit.com/activities/exercise/32086158933?export=tcx",
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 1
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 4
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 30
+  }],
+  "speed" : 7.290190019193857,
+  "pace" : 493.81428886240263,
+  "vo2Max" : {
+    "vo2Max" : 33.279810000000005
+  },
+  "lastModified" : "06/20/20 05:33:16",
+  "startTime" : "06/20/20 04:48:43",
+  "originalStartTime" : "06/20/20 04:48:43",
+  "originalDuration" : 2351000,
+  "elevationGain" : 3.962,
+  "hasGps" : true,
+  "shouldFetchDetails" : true,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32106786235,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 9,
+    "name" : "fairly"
+  },{
+    "minutes" : 16,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 109,
+  "calories" : 150,
+  "duration" : 1536000,
+  "activeDuration" : 1536000,
+  "steps" : 2352,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 24
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 2
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/20/20 07:18:09",
+  "startTime" : "06/20/20 06:34:55",
+  "originalStartTime" : "06/20/20 06:34:55",
+  "originalDuration" : 1536000,
+  "elevationGain" : 3.048,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32113985678,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 4,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 14,
+    "name" : "fairly"
+  },{
+    "minutes" : 24,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 98,
+  "calories" : 249,
+  "duration" : 2919000,
+  "activeDuration" : 2919000,
+  "steps" : 4114,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 84,
+    "minutes" : 4
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 84,
+    "max" : 117,
+    "minutes" : 45
+  },{
+    "name" : "Kardio",
+    "min" : 117,
+    "max" : 142,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 142,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/20/20 14:04:28",
+  "startTime" : "06/20/20 13:10:51",
+  "originalStartTime" : "06/20/20 13:10:51",
+  "originalDuration" : 2919000,
+  "elevationGain" : 18.288,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32139303397,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 18,
+    "name" : "fairly"
+  },{
+    "minutes" : 22,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 105,
+  "calories" : 237,
+  "duration" : 2560000,
+  "activeDuration" : 2560000,
+  "steps" : 3914,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 43
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/21/20 18:28:19",
+  "startTime" : "06/21/20 17:31:34",
+  "originalStartTime" : "06/21/20 17:31:34",
+  "originalDuration" : 2560000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32150816665,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 8,
+    "name" : "fairly"
+  },{
+    "minutes" : 13,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 105,
+  "calories" : 136,
+  "duration" : 1485000,
+  "activeDuration" : 1485000,
+  "steps" : 2192,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 25
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/22/20 07:13:49",
+  "startTime" : "06/22/20 06:42:37",
+  "originalStartTime" : "06/22/20 06:42:37",
+  "originalDuration" : 1485000,
+  "elevationGain" : 3.048,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32141531019,
+  "activityName" : "Laufen",
+  "activityTypeId" : 90009,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 1,
+    "name" : "fairly"
+  },{
+    "minutes" : 43,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 142,
+  "calories" : 413,
+  "distance" : 5.16425,
+  "distanceUnit" : "Kilometer",
+  "duration" : 2949000,
+  "activeDuration" : 2678000,
+  "steps" : 6816,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Versa 2",
+    "id" : "150543338",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["PACE","VO2_MAX","GPS","DISTANCE","STEPS","HEARTRATE","CALORIES","ELEVATION"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "tcxLink" : "https://www.fitbit.com/activities/exercise/32141531019?export=tcx",
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 2
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 8
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 35
+  }],
+  "speed" : 6.898382374906647,
+  "pace" : 521.8614748140454,
+  "vo2Max" : {
+    "vo2Max" : 33.12229
+  },
+  "lastModified" : "06/22/20 09:30:11",
+  "startTime" : "06/22/20 08:30:34",
+  "originalStartTime" : "06/22/20 08:30:34",
+  "originalDuration" : 2949000,
+  "elevationGain" : 10.973,
+  "hasGps" : true,
+  "shouldFetchDetails" : true,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32132390518,
+  "activityName" : "Training",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 21,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 139,
+  "calories" : 168,
+  "duration" : 1472000,
+  "activeDuration" : 1274000,
+  "steps" : 1326,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Versa 2",
+    "id" : "150543338",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["STEPS","HEARTRATE","CALORIES"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 0
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 14
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 7
+  }],
+  "lastModified" : "06/22/20 09:45:18",
+  "startTime" : "06/22/20 09:20:21",
+  "originalStartTime" : "06/22/20 09:20:21",
+  "originalDuration" : 1472000,
+  "elevationGain" : 1.219,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32156805075,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 9,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 103,
+  "calories" : 110,
+  "duration" : 1229000,
+  "activeDuration" : 1229000,
+  "steps" : 1760,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 21
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/22/20 13:38:55",
+  "startTime" : "06/22/20 13:10:53",
+  "originalStartTime" : "06/22/20 13:10:53",
+  "originalDuration" : 1229000,
+  "elevationGain" : 3.048,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32162485708,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 16,
+    "name" : "fairly"
+  },{
+    "minutes" : 9,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 105,
+  "calories" : 161,
+  "duration" : 1844000,
+  "activeDuration" : 1844000,
+  "steps" : 2508,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 31
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/22/20 18:15:51",
+  "startTime" : "06/22/20 17:34:34",
+  "originalStartTime" : "06/22/20 17:34:34",
+  "originalDuration" : 1844000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32174831202,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 13,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 103,
+  "calories" : 129,
+  "duration" : 1536000,
+  "activeDuration" : 1536000,
+  "steps" : 1939,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 26
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/23/20 07:13:22",
+  "startTime" : "06/23/20 06:40:30",
+  "originalStartTime" : "06/23/20 06:40:30",
+  "originalDuration" : 1536000,
+  "elevationGain" : 3.048,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32180457231,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 9,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 98,
+  "calories" : 102,
+  "duration" : 1280000,
+  "activeDuration" : 1280000,
+  "steps" : 1650,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 21
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/23/20 13:26:57",
+  "startTime" : "06/23/20 12:58:31",
+  "originalStartTime" : "06/23/20 12:58:31",
+  "originalDuration" : 1280000,
+  "elevationGain" : 3.048,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32186947732,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 8,
+    "name" : "lightly"
+  },{
+    "minutes" : 22,
+    "name" : "fairly"
+  },{
+    "minutes" : 12,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 102,
+  "calories" : 211,
+  "duration" : 2509000,
+  "activeDuration" : 2509000,
+  "steps" : 3410,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 40
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/23/20 18:30:26",
+  "startTime" : "06/23/20 17:35:00",
+  "originalStartTime" : "06/23/20 17:35:00",
+  "originalDuration" : 2509000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32198406321,
+  "activityName" : "Radfahren im Freien",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 17,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 120,
+  "calories" : 92,
+  "duration" : 1075000,
+  "activeDuration" : 1075000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 5
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 12
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/24/20 05:34:28",
+  "startTime" : "06/24/20 05:12:11",
+  "originalStartTime" : "06/24/20 05:12:11",
+  "originalDuration" : 1075000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32199541443,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 7,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 102,
+  "calories" : 131,
+  "duration" : 1638000,
+  "activeDuration" : 1638000,
+  "steps" : 2005,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 27
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/24/20 07:20:20",
+  "startTime" : "06/24/20 06:42:38",
+  "originalStartTime" : "06/24/20 06:42:38",
+  "originalDuration" : 1638000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32176520014,
+  "activityName" : "Ellipsentrainer",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 26,
+    "name" : "fairly"
+  },{
+    "minutes" : 24,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 123,
+  "calories" : 323,
+  "duration" : 3214000,
+  "activeDuration" : 3212000,
+  "steps" : 3467,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Versa 2",
+    "id" : "150543338",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["STEPS","HEARTRATE","CALORIES"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 13
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 41
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/24/20 12:43:21",
+  "startTime" : "06/24/20 11:49:29",
+  "originalStartTime" : "06/24/20 11:49:29",
+  "originalDuration" : 3214000,
+  "elevationGain" : 2.438,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32206158643,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 7,
+    "name" : "lightly"
+  },{
+    "minutes" : 18,
+    "name" : "fairly"
+  },{
+    "minutes" : 19,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 104,
+  "calories" : 234,
+  "duration" : 2663000,
+  "activeDuration" : 2663000,
+  "steps" : 3788,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 43
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 1
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/24/20 13:43:53",
+  "startTime" : "06/24/20 12:52:07",
+  "originalStartTime" : "06/24/20 12:52:07",
+  "originalDuration" : 2663000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32215767367,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 16,
+    "name" : "fairly"
+  },{
+    "minutes" : 4,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 100,
+  "calories" : 128,
+  "duration" : 1536000,
+  "activeDuration" : 1536000,
+  "steps" : 2097,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 26
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/24/20 18:16:04",
+  "startTime" : "06/24/20 17:41:25",
+  "originalStartTime" : "06/24/20 17:41:25",
+  "originalDuration" : 1536000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32234316660,
+  "activityName" : "Radfahren im Freien",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 12,
+    "name" : "lightly"
+  },{
+    "minutes" : 2,
+    "name" : "fairly"
+  },{
+    "minutes" : 6,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 118,
+  "calories" : 113,
+  "duration" : 1280000,
+  "activeDuration" : 1280000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 6
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 13
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/25/20 05:48:25",
+  "startTime" : "06/25/20 05:10:54",
+  "originalStartTime" : "06/25/20 05:10:54",
+  "originalDuration" : 1280000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32235186872,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 9,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 103,
+  "calories" : 110,
+  "duration" : 1280000,
+  "activeDuration" : 1280000,
+  "steps" : 1733,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 20
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 1
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/25/20 07:04:18",
+  "startTime" : "06/25/20 06:34:32",
+  "originalStartTime" : "06/25/20 06:34:32",
+  "originalDuration" : 1280000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32240734325,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 13,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 99,
+  "calories" : 99,
+  "duration" : 1178000,
+  "activeDuration" : 1178000,
+  "steps" : 1592,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 20
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/25/20 14:06:41",
+  "startTime" : "06/25/20 13:25:50",
+  "originalStartTime" : "06/25/20 13:25:50",
+  "originalDuration" : 1178000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32245826279,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 17,
+    "name" : "lightly"
+  },{
+    "minutes" : 13,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 100,
+  "calories" : 185,
+  "duration" : 2252000,
+  "activeDuration" : 2252000,
+  "steps" : 2880,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 38
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/25/20 18:24:08",
+  "startTime" : "06/25/20 17:35:52",
+  "originalStartTime" : "06/25/20 17:35:52",
+  "originalDuration" : 2252000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32264788546,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 99,
+  "calories" : 95,
+  "duration" : 1075000,
+  "activeDuration" : 1075000,
+  "steps" : 1606,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 18
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/26/20 14:30:20",
+  "startTime" : "06/26/20 13:58:43",
+  "originalStartTime" : "06/26/20 13:58:43",
+  "originalDuration" : 1075000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32254313870,
+  "activityName" : "Training",
+  "activityTypeId" : 3000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 44,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 136,
+  "calories" : 409,
+  "duration" : 2910000,
+  "activeDuration" : 2908000,
+  "steps" : 4412,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Versa 2",
+    "id" : "150543338",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["STEPS","HEARTRATE","CALORIES"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 3
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 0
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 20
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 26
+  }],
+  "lastModified" : "06/26/20 17:18:00",
+  "startTime" : "06/26/20 15:30:47",
+  "originalStartTime" : "06/26/20 15:30:47",
+  "originalDuration" : 2910000,
+  "elevationGain" : 6.096,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32269182044,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 18,
+    "name" : "fairly"
+  },{
+    "minutes" : 10,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 105,
+  "calories" : 168,
+  "duration" : 1945000,
+  "activeDuration" : 1945000,
+  "steps" : 2650,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 32
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/26/20 18:18:26",
+  "startTime" : "06/26/20 17:41:26",
+  "originalStartTime" : "06/26/20 17:41:26",
+  "originalDuration" : 1945000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32280156983,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 10,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 103,
+  "calories" : 126,
+  "duration" : 1383000,
+  "activeDuration" : 1383000,
+  "steps" : 2091,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 23
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/27/20 07:13:34",
+  "startTime" : "06/27/20 06:35:24",
+  "originalStartTime" : "06/27/20 06:35:24",
+  "originalDuration" : 1383000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32289496636,
+  "activityName" : "Aerobic",
+  "activityTypeId" : 3001,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 12,
+    "name" : "lightly"
+  },{
+    "minutes" : 20,
+    "name" : "fairly"
+  },{
+    "minutes" : 1,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 110,
+  "calories" : 164,
+  "duration" : 1946000,
+  "activeDuration" : 1946000,
+  "steps" : 1996,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 28
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 5
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/27/20 15:32:02",
+  "startTime" : "06/27/20 14:47:47",
+  "originalStartTime" : "06/27/20 14:47:47",
+  "originalDuration" : 1946000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32292846839,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 20,
+    "name" : "lightly"
+  },{
+    "minutes" : 17,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 98,
+  "calories" : 210,
+  "duration" : 2714000,
+  "activeDuration" : 2714000,
+  "steps" : 3247,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 45
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/27/20 18:19:07",
+  "startTime" : "06/27/20 17:29:04",
+  "originalStartTime" : "06/27/20 17:29:04",
+  "originalDuration" : 2714000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32285919605,
+  "activityName" : "Laufen",
+  "activityTypeId" : 90009,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 34,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 148,
+  "calories" : 339,
+  "distance" : 4.219125,
+  "distanceUnit" : "Kilometer",
+  "duration" : 2727000,
+  "activeDuration" : 2083000,
+  "steps" : 5452,
+  "source" : {
+    "type" : "tracker",
+    "name" : "Versa 2",
+    "id" : "150543338",
+    "url" : "https://www.fitbit.com/",
+    "trackerFeatures" : ["PACE","VO2_MAX","GPS","DISTANCE","STEPS","HEARTRATE","CALORIES","ELEVATION"]
+  },
+  "logType" : "tracker",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "tcxLink" : "https://www.fitbit.com/activities/exercise/32285919605?export=tcx",
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 1
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 5
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 29
+  }],
+  "speed" : 7.2363802208353345,
+  "pace" : 497.48629703490525,
+  "vo2Max" : {
+    "vo2Max" : 33.07274
+  },
+  "lastModified" : "06/28/20 05:59:02",
+  "startTime" : "06/28/20 05:07:13",
+  "originalStartTime" : "06/28/20 05:07:13",
+  "originalDuration" : 2727000,
+  "elevationGain" : 1.219,
+  "hasGps" : true,
+  "shouldFetchDetails" : true,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32301882351,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 8,
+    "name" : "fairly"
+  },{
+    "minutes" : 17,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 111,
+  "calories" : 144,
+  "duration" : 1536000,
+  "activeDuration" : 1536000,
+  "steps" : 2242,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 21
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 2
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/28/20 07:29:42",
+  "startTime" : "06/28/20 06:50:21",
+  "originalStartTime" : "06/28/20 06:50:21",
+  "originalDuration" : 1536000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32312920082,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 12,
+    "name" : "lightly"
+  },{
+    "minutes" : 20,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 102,
+  "calories" : 216,
+  "duration" : 2611000,
+  "activeDuration" : 2611000,
+  "steps" : 3474,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 43
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/28/20 18:18:25",
+  "startTime" : "06/28/20 17:30:21",
+  "originalStartTime" : "06/28/20 17:30:21",
+  "originalDuration" : 2611000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32334949072,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 7,
+    "name" : "fairly"
+  },{
+    "minutes" : 16,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 99,
+  "calories" : 136,
+  "duration" : 1433000,
+  "activeDuration" : 1433000,
+  "steps" : 2381,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 24
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/29/20 18:38:32",
+  "startTime" : "06/29/20 06:15:55",
+  "originalStartTime" : "06/29/20 06:15:55",
+  "originalDuration" : 1433000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32334949074,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 14,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 89,
+  "calories" : 55,
+  "duration" : 922000,
+  "activeDuration" : 922000,
+  "steps" : 733,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 15
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/29/20 18:38:32",
+  "startTime" : "06/29/20 09:09:08",
+  "originalStartTime" : "06/29/20 09:09:08",
+  "originalDuration" : 922000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32334949076,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 22,
+    "name" : "fairly"
+  },{
+    "minutes" : 17,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 98,
+  "calories" : 239,
+  "duration" : 2815000,
+  "activeDuration" : 2815000,
+  "steps" : 3997,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 46
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/29/20 18:38:32",
+  "startTime" : "06/29/20 14:24:02",
+  "originalStartTime" : "06/29/20 14:24:02",
+  "originalDuration" : 2815000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32334949077,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 9,
+    "name" : "lightly"
+  },{
+    "minutes" : 15,
+    "name" : "fairly"
+  },{
+    "minutes" : 7,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 96,
+  "calories" : 153,
+  "duration" : 1945000,
+  "activeDuration" : 1945000,
+  "steps" : 2471,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 32
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/29/20 18:38:32",
+  "startTime" : "06/29/20 17:44:34",
+  "originalStartTime" : "06/29/20 17:44:34",
+  "originalDuration" : 1945000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32347858036,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 16,
+    "name" : "fairly"
+  },{
+    "minutes" : 6,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 102,
+  "calories" : 142,
+  "duration" : 1689000,
+  "activeDuration" : 1689000,
+  "steps" : 2293,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 28
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/30/20 07:06:16",
+  "startTime" : "06/30/20 06:29:10",
+  "originalStartTime" : "06/30/20 06:29:10",
+  "originalDuration" : 1689000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32359397621,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 13,
+    "name" : "lightly"
+  },{
+    "minutes" : 15,
+    "name" : "fairly"
+  },{
+    "minutes" : 4,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 99,
+  "calories" : 153,
+  "duration" : 1946000,
+  "activeDuration" : 1946000,
+  "steps" : 2472,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 32
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "06/30/20 18:17:37",
+  "startTime" : "06/30/20 17:42:26",
+  "originalStartTime" : "06/30/20 17:42:26",
+  "originalDuration" : 1946000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32377283591,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 15,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 104,
+  "calories" : 158,
+  "duration" : 1792000,
+  "activeDuration" : 1792000,
+  "steps" : 2573,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 30
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/01/20 06:53:55",
+  "startTime" : "07/01/20 06:15:56",
+  "originalStartTime" : "07/01/20 06:15:56",
+  "originalDuration" : 1792000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32387783424,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 5,
+    "name" : "lightly"
+  },{
+    "minutes" : 18,
+    "name" : "fairly"
+  },{
+    "minutes" : 15,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 104,
+  "calories" : 198,
+  "duration" : 2253000,
+  "activeDuration" : 2253000,
+  "steps" : 3243,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 36
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 2
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/01/20 18:21:45",
+  "startTime" : "07/01/20 17:32:38",
+  "originalStartTime" : "07/01/20 17:32:38",
+  "originalDuration" : 2253000,
+  "elevationGain" : 3.048,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32399999685,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 6,
+    "name" : "sedentary"
+  },{
+    "minutes" : 15,
+    "name" : "lightly"
+  },{
+    "minutes" : 6,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 95,
+  "calories" : 164,
+  "duration" : 2304000,
+  "activeDuration" : 2304000,
+  "steps" : 2447,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 1
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 38
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/02/20 07:13:03",
+  "startTime" : "07/02/20 06:30:53",
+  "originalStartTime" : "07/02/20 06:30:53",
+  "originalDuration" : 2304000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32401127256,
+  "activityName" : "Radfahren im Freien",
+  "activityTypeId" : 1071,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 9,
+    "name" : "fairly"
+  },{
+    "minutes" : 44,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 126,
+  "calories" : 379,
+  "duration" : 3226000,
+  "activeDuration" : 3226000,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 10
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 44
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/02/20 09:32:18",
+  "startTime" : "07/02/20 08:34:37",
+  "originalStartTime" : "07/02/20 08:34:37",
+  "originalDuration" : 3226000,
+  "elevationGain" : 1.168,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32411594855,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 23,
+    "name" : "fairly"
+  },{
+    "minutes" : 9,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 101,
+  "calories" : 194,
+  "duration" : 2304000,
+  "activeDuration" : 2304000,
+  "steps" : 3185,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 39
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/02/20 18:26:27",
+  "startTime" : "07/02/20 17:34:47",
+  "originalStartTime" : "07/02/20 17:34:47",
+  "originalDuration" : 2304000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32421817840,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 9,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 105,
+  "calories" : 101,
+  "duration" : 1126000,
+  "activeDuration" : 1126000,
+  "steps" : 1625,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 19
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/03/20 07:17:54",
+  "startTime" : "07/03/20 06:44:59",
+  "originalStartTime" : "07/03/20 06:44:59",
+  "originalDuration" : 1126000,
+  "elevationGain" : 3.048,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32428492368,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 6,
+    "name" : "lightly"
+  },{
+    "minutes" : 13,
+    "name" : "fairly"
+  },{
+    "minutes" : 3,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 97,
+  "calories" : 105,
+  "duration" : 1332000,
+  "activeDuration" : 1332000,
+  "steps" : 1657,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 22
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/03/20 13:48:29",
+  "startTime" : "07/03/20 13:16:39",
+  "originalStartTime" : "07/03/20 13:16:39",
+  "originalDuration" : 1332000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32433916655,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 7,
+    "name" : "lightly"
+  },{
+    "minutes" : 21,
+    "name" : "fairly"
+  },{
+    "minutes" : 8,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 103,
+  "calories" : 179,
+  "duration" : 2151000,
+  "activeDuration" : 2151000,
+  "steps" : 2783,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 36
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/03/20 18:31:42",
+  "startTime" : "07/03/20 17:40:20",
+  "originalStartTime" : "07/03/20 17:40:20",
+  "originalDuration" : 2151000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32442477597,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 17,
+    "name" : "fairly"
+  },{
+    "minutes" : 12,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 104,
+  "calories" : 171,
+  "duration" : 1946000,
+  "activeDuration" : 1946000,
+  "steps" : 2828,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 32
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/04/20 07:16:49",
+  "startTime" : "07/04/20 06:35:10",
+  "originalStartTime" : "07/04/20 06:35:10",
+  "originalDuration" : 1946000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32455561854,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 19,
+    "name" : "fairly"
+  },{
+    "minutes" : 18,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 102,
+  "calories" : 211,
+  "duration" : 2356000,
+  "activeDuration" : 2356000,
+  "steps" : 3527,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 39
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/04/20 18:18:22",
+  "startTime" : "07/04/20 17:33:05",
+  "originalStartTime" : "07/04/20 17:33:05",
+  "originalDuration" : 2356000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32464294914,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 10,
+    "name" : "fairly"
+  },{
+    "minutes" : 12,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 105,
+  "calories" : 138,
+  "duration" : 1536000,
+  "activeDuration" : 1536000,
+  "steps" : 2135,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 26
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/05/20 07:18:25",
+  "startTime" : "07/05/20 06:42:26",
+  "originalStartTime" : "07/05/20 06:42:26",
+  "originalDuration" : 1536000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+},{
+  "logId" : 32473677817,
+  "activityName" : "Gehen",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 8,
+    "name" : "lightly"
+  },{
+    "minutes" : 16,
+    "name" : "fairly"
+  },{
+    "minutes" : 9,
+    "name" : "very"
+  }],
+  "averageHeartRate" : 100,
+  "calories" : 168,
+  "duration" : 1946000,
+  "activeDuration" : 1946000,
+  "steps" : 2747,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "heartRateZones" : [{
+    "name" : "Außerhalb der Zone",
+    "min" : 30,
+    "max" : 83,
+    "minutes" : 0
+  },{
+    "name" : "Fettverbrennung",
+    "min" : 83,
+    "max" : 116,
+    "minutes" : 30
+  },{
+    "name" : "Kardio",
+    "min" : 116,
+    "max" : 141,
+    "minutes" : 0
+  },{
+    "name" : "Höchstleistung",
+    "min" : 141,
+    "max" : 220,
+    "minutes" : 0
+  }],
+  "lastModified" : "07/05/20 18:19:27",
+  "startTime" : "07/05/20 17:36:56",
+  "originalStartTime" : "07/05/20 17:36:56",
+  "originalDuration" : 1946000,
+  "elevationGain" : 0.0,
+  "hasGps" : false,
+  "shouldFetchDetails" : false,
+  "hasActiveZoneMinutes" : false
+}]
